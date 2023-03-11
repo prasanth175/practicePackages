@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.pie-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

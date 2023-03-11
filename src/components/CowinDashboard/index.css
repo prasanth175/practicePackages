@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.all {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.main-container {
+  width: 80vw;
+  color: white;
+}
+
+.website-logo {
+  height: 40px;
+  width: 40px;
+}
+
+.logo-heading {
+  color: #2cc6c6;
+  margin-left: 10px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.sub-heading {
+  font-size: 28px;
+}
+
+.failure-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Bree Serif';
+}
+
+.fail-img {
+  height: 400px;
+  width: 400px;
+}
+
+.loader-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
